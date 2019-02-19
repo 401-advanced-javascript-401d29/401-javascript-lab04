@@ -2,7 +2,7 @@
   "name": "401-javascript-lab04",
   "version": "1.0.0",
   "description": "Buffers - File Transformers",
-  "main": "index.js",
+  "main": "loop.js",
   "dependencies": {
     "eslint": "^5.14.1",
     "install": "^0.12.2",
