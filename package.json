@@ -1,0 +1,26 @@
+{
+  "name": "401-javascript-lab04",
+  "version": "1.0.0",
+  "description": "Buffers - File Transformers",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.14.1",
+    "install": "^0.12.2",
+    "jest": "^24.1.0",
+    "npm": "^6.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"jest --coverage\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etrainor/401-javascript-lab04.git"
+  },
+  "author": "Erin Trainor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etrainor/401-javascript-lab04/issues"
+  },
+  "homepage": "https://github.com/etrainor/401-javascript-lab04#readme"
+}
