@@ -1,1 +1,0 @@
-//that initiates an array with 3 people's names, iterates them with a forEach loop, and console.log's each value.
